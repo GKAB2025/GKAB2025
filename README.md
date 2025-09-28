@@ -2,9 +2,7 @@
 
 
 
--  I’m currently working on competitive coding [Projects](https://replit.com/@GKAB2025)
--  I’m currently learning prefix sums from [USACO Guide](https://usaco.guide/)
-- I’m looking for help with a coding initiative in the San Jose metro area
+-  I'm an electrical engineer at Michigan (class of 2029). Feel free to email me about anything!
 - AMA 
 - How to reach me: (mailto:akshatbora22@gmail.com)
 - Pronouns: he/him
